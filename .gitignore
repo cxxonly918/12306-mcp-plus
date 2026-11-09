@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Coverage
+coverage
+
+# npm pack
+*.tgz
+
+# OS
+.DS_Store
+Thumbs.db
